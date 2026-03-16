@@ -1,3 +1,3 @@
 # Genesis-GenAI-Project (Virtual Track)
 
-Predicting Health Issues due to Urbanisation.
+Predicting health and environmental issues due to urbanisation.
